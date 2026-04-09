@@ -1,19 +1,24 @@
-# reaffirmationagreement.com
-
-> Complete guide to reaffirmation agreements in bankruptcy. Learn what 11 U.S.C. Section 524(c) requires, when reaffirmation makes sense, the risks of signing, and how to rescind.
+# Reaffirmation Agreements in Bankruptcy: Should You Sign?
+> Should you sign a reaffirmation agreement? Understand the risks, benefits, and alternatives for keeping property in Chapter 7. Fr...
 
 ## About
-
-reaffirmationagreement.com explains reaffirmation agreements under 11 U.S.C. Section 524(c), the voluntary agreements in which a debtor agrees to remain personally liable for a debt that would otherwise be discharged. The site covers when reaffirmation may make sense (keeping a car or home), the legal requirements for a valid agreement, risks of signing, the 60-day rescission period, and alternatives to reaffirmation.
+reaffirmationagreement is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
+- Reaffirmation Agreements in Bankruptcy: Should You Sign?: https://reaffirmationagreement/
+- Reaffirming Your Car Loan in Chapter 7 Bankruptcy: https://reaffirmationagreement.org/car-reaffirmation.html
+- Reaffirm Credit Card Debt in Bankruptcy? Almost Never.: https://reaffirmationagreement.org/credit-card.html
+- Reaffirmation Agreements in Bankruptcy: Should You Sign?: https://reaffirmationagreement.org/
+- Mortgage Reaffirmation: Do You Need to Reaffirm Your Home Loan?: https://reaffirmationagreement.org/mortgage-reaffirmation.html
+- Mortgage Reaffirmation in Bankruptcy: Is It Required?: https://reaffirmationagreement.org/mortgage.html
+- Changed Your Mind? How to Rescind a Reaffirmation Agreement: https://reaffirmationagreement.org/rescission.html
+- The Risks of Reaffirmation: What Your Creditor Won't Tell You: https://reaffirmationagreement.org/risks.html
+- When to Refuse a Reaffirmation Agreement: https://reaffirmationagreement.org/when-to-say-no.html
 
-- [Home](https://reaffirmationagreement.com/): Complete guide to reaffirmation agreements -- requirements, risks, rescission rights, and alternatives
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-## Network
-
-Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "reaffirmationagreement.com, Open Bankruptcy Project (2026)."
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
