@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://reaffirmationagreement.org/sitemap.xml
+Sitemap: https://reaffirmationagreement.com/sitemap.xml
