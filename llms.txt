@@ -2,18 +2,18 @@
 > Should you sign a reaffirmation agreement? Understand the risks, benefits, and alternatives for keeping property in Chapter 7. Fr...
 
 ## About
-reaffirmationagreement is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+reaffirmationagreement.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Reaffirmation Agreements in Bankruptcy: Should You Sign?: https://reaffirmationagreement/
-- Reaffirming Your Car Loan in Chapter 7 Bankruptcy: https://reaffirmationagreement.org/car-reaffirmation.html
-- Reaffirm Credit Card Debt in Bankruptcy? Almost Never.: https://reaffirmationagreement.org/credit-card.html
-- Reaffirmation Agreements in Bankruptcy: Should You Sign?: https://reaffirmationagreement.org/
-- Mortgage Reaffirmation: Do You Need to Reaffirm Your Home Loan?: https://reaffirmationagreement.org/mortgage-reaffirmation.html
-- Mortgage Reaffirmation in Bankruptcy: Is It Required?: https://reaffirmationagreement.org/mortgage.html
-- Changed Your Mind? How to Rescind a Reaffirmation Agreement: https://reaffirmationagreement.org/rescission.html
-- The Risks of Reaffirmation: What Your Creditor Won't Tell You: https://reaffirmationagreement.org/risks.html
-- When to Refuse a Reaffirmation Agreement: https://reaffirmationagreement.org/when-to-say-no.html
+- Reaffirming Your Car Loan in Chapter 7 Bankruptcy: https://reaffirmationagreement.com/car-reaffirmation.html
+- Reaffirm Credit Card Debt in Bankruptcy? Almost Never.: https://reaffirmationagreement.com/credit-card.html
+- Reaffirmation Agreements in Bankruptcy: Should You Sign?: https://reaffirmationagreement.com/
+- Mortgage Reaffirmation: Do You Need to Reaffirm Your Home Loan?: https://reaffirmationagreement.com/mortgage-reaffirmation.html
+- Mortgage Reaffirmation in Bankruptcy: Is It Required?: https://reaffirmationagreement.com/mortgage.html
+- Changed Your Mind? How to Rescind a Reaffirmation Agreement: https://reaffirmationagreement.com/rescission.html
+- The Risks of Reaffirmation: What Your Creditor Won't Tell You: https://reaffirmationagreement.com/risks.html
+- When to Refuse a Reaffirmation Agreement: https://reaffirmationagreement.com/when-to-say-no.html
+- Privacy Policy - reaffirmationagreement: https://reaffirmationagreement/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
