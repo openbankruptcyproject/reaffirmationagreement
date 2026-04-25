@@ -91,7 +91,27 @@
 <meta content="https://reaffirmationagreement.com/og-image.svg" name="twitter:image"/>
 <link href="https://reaffirmationagreement.com/when-to-say-no.html" hreflang="en" rel="alternate"/>
 <link href="https://reaffirmationagreement.com/when-to-say-no-es.html" hreflang="es" rel="alternate"/>
-<link rel="canonical" href="https://reaffirmationagreement.com/when-to-say-no.html">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "alternateName": "OBP",
+  "url": "https://openbankruptcyproject.org",
+  "email": "info@openbankruptcyproject.org",
+  "taxID": "41-5159631",
+  "nonprofitStatus": "Nonprofit501c3",
+  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 W 100th St",
+    "addressLocality": "Kansas City",
+    "addressRegion": "MO",
+    "postalCode": "64114",
+    "addressCountry": "US"
+  }
+}
+</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -206,7 +226,7 @@
 <button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
 </form>
 </div>
-<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem"><p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.</p><a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a></div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem"><p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).</p><a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a></div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0"><p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p><p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p><div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div><p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p><a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a></div>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
 <script defer="" src="/btn-engage.js"></script>

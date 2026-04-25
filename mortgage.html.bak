@@ -112,27 +112,6 @@ footer{background:#161b22;border-top:1px solid #30363d;padding:2rem;text-align:c
 <meta content="https://reaffirmationagreement.com/og-image.svg" name="twitter:image"/>
 <link href="https://reaffirmationagreement.com/mortgage.html" hreflang="en" rel="alternate"/>
 <link href="https://reaffirmationagreement.com/mortgage-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -262,7 +241,7 @@ footer{background:#161b22;border-top:1px solid #30363d;padding:2rem;text-align:c
 </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
